@@ -49,7 +49,7 @@ main .content-wrapper {
   width: 100%;
   background: #f2f1fb;
   display: flex;
-  text-align: center;
+  align-items: center;
   padding: 10px;
   border: 1px solid #07c0e6;
 }
